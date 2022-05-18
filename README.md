@@ -1,5 +1,5 @@
 # project-three
 html, css and javascript template
 
-## Dome 
+## Demo
  https://mai-omran.github.io/project-three/
